@@ -17,11 +17,11 @@ namespace ChatPlusServer
 {
     public partial class Form1 : Form
     {
-        public string url = "82.198.229.125";
-        public string user = "u158938735";
-        public string pass = "ch!a+=rm/9gZ$4Cr";
-        public string path = "/domains/darkorange-raven-406010.hostingersite.com/public_html/ChatPlus/";
-        public string urlhttp = "https://darkorange-raven-406010.hostingersite.com/ChatPlus/";
+        public string url = "";
+        public string user = "";
+        public string pass = "";
+        public string path = "";
+        public string urlhttp = "";
 
 
 
