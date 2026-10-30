@@ -1,0 +1,16 @@
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\ChatPlusServer.exe.config
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\ChatPlusServer.exe
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\ChatPlusServer.pdb
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\FluentFTP.dll
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\FluentFTP.xml
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.csproj.AssemblyReference.cache
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.Form1.resources
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.Properties.Resources.resources
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.csproj.GenerateResource.cache
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.csproj.CoreCompileInputs.cache
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlus.2A138F4E.Up2Date
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.exe
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.pdb
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\System.CodeDom.dll
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\bin\Debug\System.CodeDom.xml
+C:\Users\Yatim\source\repos\ChatPlusServer\ChatPlusServer\obj\Debug\ChatPlusServer.exe.config
